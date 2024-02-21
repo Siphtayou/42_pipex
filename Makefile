@@ -6,7 +6,7 @@
 #    By: agilles <agilles@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/01/15 16:34:53 by agilles           #+#    #+#              #
-#    Updated: 2024/02/20 16:06:11 by agilles          ###   ########.fr        #
+#    Updated: 2024/02/21 14:53:01 by agilles          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ LIBFT = printf_libft/libftprintf.a
 CC = cc
 CFLAGS = -Wall -Werror -Wextra
 SRC =	pipex.c\
-		#utils.c\
+		utils.c\
 
 
 MAIN = pipex.c\
